@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oh, Hello! I'm Zach!
+
+I make things. Sometimes.
 
 <!--
 **zmbush/zmbush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
